@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlugAbleModule", "PlugAbleModule\PlugAbleModule.csproj", "{D33B007F-7B43-493E-BE5A-C6AAAFBDF93B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D33B007F-7B43-493E-BE5A-C6AAAFBDF93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33B007F-7B43-493E-BE5A-C6AAAFBDF93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33B007F-7B43-493E-BE5A-C6AAAFBDF93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33B007F-7B43-493E-BE5A-C6AAAFBDF93B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2851BEA-9060-4955-97ED-0F9BC103FD2A}
+	EndGlobalSection
+EndGlobal
